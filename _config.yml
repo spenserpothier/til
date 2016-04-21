@@ -10,7 +10,7 @@ title: Today I Learned
 email: til@spenser.io
 description: > # this means to ignore newlines until "baseurl:"
   A TIL site created by Spenser Pothier with my learnings of the day that I don't want to forget.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/til" # the subpath of your site, e.g. /blog
 twitter_username: spenserpothier
 github_username:  spenserpothier
 
